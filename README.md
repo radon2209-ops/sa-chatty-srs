@@ -19,9 +19,7 @@ Chatty — веб-приложение для изучения английск�
 
 ## Артефакты
 
-- [`docs/SRS-Chatty-2.0.pdf`](docs/SRS-Chatty-2.0.pdf) — итоговая спецификация
-- [`diagrams/context-diagram.png`](diagrams/context-diagram.png) — контекстная диаграмма системы
-- [`diagrams/use-case-diagram.png`](diagrams/use-case-diagram.png) — диаграмма вариантов использования
+- [`docs/SRS-Chatty-2.0.pdf`](SRS-Chatty-2.0.pdf) — итоговая спецификация
 
 ## Методология и инструменты
 
